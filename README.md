@@ -34,4 +34,4 @@ In this repository, I have visualized a few strange attractors with code I have 
 ## Notes
 Some scripts are running over 100,000 iterations, the output might be slow depending on your system.
 
-All the folders have information for that particular strange attractor included.
+All the folders include information for that particular strange attractor.

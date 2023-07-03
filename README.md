@@ -15,3 +15,23 @@ One of the most well-known examples of a strange attractor is the Lorenz attract
 Strange attractors have been studied in various fields, including physics, mathematics, biology, and economics. They provide insights into the behavior of complex systems, where small changes in initial conditions can lead to drastically different outcomes over time.
 
 In this repository, I have visualized a few strange attractors with code I have written in python.
+
+<br>
+
+## Preconditions
+1. You must have Python insalled on your system. You can download python by visiting [this link.](https://www.python.org)
+
+2. You must have Pip Package Installer for Python on your system. You can get it from [here.](https://pip.pypa.io/en/stable/)
+
+3. Some packages that need to be installed are matplotlib and numpy. Open your terminal and enter the following commands:<br>
+   ```pip3 install numpy``` <br>
+   ```pip3 install matplotlib```
+
+4. Open the Python scripts and run them.
+
+<br>
+
+## Notes
+Some scripts are running over 100,000 iterations, the output might be slow depending on your system.
+
+All the folders have information for that particular strange attractor included.
